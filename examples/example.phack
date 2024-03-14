@@ -3,7 +3,11 @@ i = x = 100;
 x = i * i;
 
 for i in 0..100 {
+    // This is a comment
+}
 
+while i > 0 {
+    i--;
 }
 
 if i >= j {

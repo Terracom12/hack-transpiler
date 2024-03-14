@@ -13,3 +13,7 @@ while i > 0 {
 if i >= j {
 
 }
+
+func add(a, b) {
+    return a + b;
+}

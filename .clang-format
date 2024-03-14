@@ -11,6 +11,7 @@ BraceWrapping:
   AfterClass: true
   AfterFunction: true
   AfterStruct: true
+  AfterEnum: true
 
 TabWidth: 4
 IndentWidth: 4
